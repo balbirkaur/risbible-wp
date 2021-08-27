@@ -1,0 +1,2 @@
+# risbible-wp
+WordPress RisBibible
